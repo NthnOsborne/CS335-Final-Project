@@ -1,8 +1,5 @@
 # CS335-Final-Project
 
-## Issue Boards:
-- https://github.com/users/nosborne159/projects/1/views/1
-
 ## Overview:
 This program is a replica game of 2048. It has the same basic functionality: has a 4 X 4 game board with tiles that populate the board, starting with two tiles, where each tile has a value displayed being a power of 2, in which the user can move all the tiles in an indicated direction using the W (up), A (left), S (down), D (right) keys. The beginning tiles are randomly populated with the displayed value of 2 or 4 and as tiles are moved by the user if two tiles are moved adjacent to eachother with the same displayed value they will combine into one tile with a displayed value of double the intitial value. The goal of this game is to reach a tile with the displayed value of 2048 in which the game ends, but each time a move is made a new tile appears on the board with either a value 2 or 4 which could cause the board to fill up with no moves able to be made in which the game ends aswell.
 
